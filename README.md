@@ -1,8 +1,8 @@
-aplicação em React com o uso de APi - Lista de Filmes da Franquia: Senhor dos Anéis 
+# Aplicação em React com o uso de APi - Lista de Filmes da Franquia: Senhor dos Anéis 
 
 🔸Deploy: https://lnkd.in/dMyeYEmy
 
-🔹Desenvolvi essa aplicação baseado em um teste técnico para uma vaga de desenvolvedor frontend Sênior para uma empresa da Austrália🇦🇺, gosto de sempre fazer testes técnicos que estejam públicos no github para nivelar o meu conhecimento e aprimorar minhas habilidades no desenvolvimento de software. 
+🔹Desenvolvi essa aplicação baseado em um teste técnico para uma vaga de desenvolvedor frontend Sênior para uma empresa da Austrália🇦🇺.
 Todo o design da aplicação seguiu o padrão do Figma disponibilizado no repositório do teste, assim como a Api também foi disponibilizada no mesmo. 
 
 🔺Tecnologias Utilizadas: React, Styled Components, Javascript, APi Rest, AXIOS. 
